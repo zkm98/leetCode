@@ -10,3 +10,7 @@ At the same time, I hope I could get used to using the git operations.
 这部分主要是针对数组知识的题目汇总
 
 [532.数组中的K-diff数对](532.md)
+
+# 树
+这部分的知识是针对于树的知识
+
